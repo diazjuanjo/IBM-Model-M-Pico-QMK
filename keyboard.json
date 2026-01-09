@@ -1,7 +1,7 @@
 {
     "manufacturer": "Juanjo Diaz",
     "keyboard_name": "model_m_pico",
-    "maintainer": "Juanjo Diaz",
+    "maintainer": "diazjuanjo",
     "processor": "RP2040",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
@@ -18,7 +18,7 @@
     "bootmagic": {
         "matrix": [0, 2]
     },
-    "url": "",
+    "url": "https://github.com/diazjuanjo/IBM-Model-M-Pico-QMK",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0000",
